@@ -48,3 +48,5 @@ Find all component presentation metadata for which no content is present:
                         AND CPMD.COMPONENT_REF_ID = CP.COMPONENT_ID)
 
 The application itself uses .NET parallelism in order to increase the throughput while importing into the database.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cb439853d159fe1de33e3197f1caf6f7 "githalytics.com")](http://githalytics.com/github.com/TcmExtensions)
